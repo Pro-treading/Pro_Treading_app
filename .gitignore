@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+# Ignore application properties with sensitive info
+src/main/resources/application.properties
+
 # Built things
 _Debug/
 Compiled/
