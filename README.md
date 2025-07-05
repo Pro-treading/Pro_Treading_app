@@ -21,6 +21,7 @@ A Spring Boot application for user management and two-factor authentication, bui
 - Maven
 - HTML
 - CSS
+- JavaScript
 
 ## Project Structure
 
