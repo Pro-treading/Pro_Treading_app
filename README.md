@@ -19,6 +19,7 @@ A Spring Boot application for user management and two-factor authentication, bui
 - Lombok
 - MySQL
 - Maven
+- HTML
 
 ## Project Structure
 
