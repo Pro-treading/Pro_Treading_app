@@ -91,7 +91,6 @@ src/
 - Passwords are write-only in API responses.
 - Sensitive configuration files are excluded from version control via `.gitignore`.
 
-## Contributing
 
 
 
