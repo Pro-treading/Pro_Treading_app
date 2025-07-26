@@ -88,7 +88,7 @@ src/
 
 ## Security
 
-- Passwords are 
+- Passwords 
 
 
 
