@@ -88,7 +88,7 @@ src/
 
 ## Security
 
-- Passwords are write-only 
+- Passwords are write
 
 
 
