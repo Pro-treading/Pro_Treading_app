@@ -88,7 +88,7 @@ src/
 
 ## Security
 
-- Passwords are write-only in API responses.
+- Passwords are write-only in API 
 
 
 
