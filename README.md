@@ -83,7 +83,7 @@ src/
 - **USER_ROLE.java**  
   Enum for user roles (e.g., `ROLE_CUSTOMER`, `ROLE_ADMIN`).
 
-- **Home
+
   
 
 
