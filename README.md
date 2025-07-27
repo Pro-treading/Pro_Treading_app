@@ -84,7 +84,7 @@ src/
   Enum for user roles (e.g., `ROLE_CUSTOMER`, `ROLE_ADMIN`).
 
 - **HomeController.java**  
-  REST controller with 
+  REST controller 
 
 
 
