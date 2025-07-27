@@ -86,7 +86,7 @@ src/
 - **HomeController.java**  
   REST controller with a welcome endpoint.
 
-## Security
+## 
 
 
 
