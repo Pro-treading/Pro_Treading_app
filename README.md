@@ -81,7 +81,7 @@ src/
   Embedded in `User`, stores 2FA status and method.
 
 - **USER_ROLE.java**  
-  Enum for user roles 
+  Enum for user 
 
   
 
