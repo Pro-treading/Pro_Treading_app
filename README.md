@@ -80,7 +80,7 @@ src/
 - **TwoFactorAuth.java**  
   Embedded in `User`, stores 2FA status and method.
 
-- **USER_ROLE.java**  
+- **USER_ROLE.
   
   
 
