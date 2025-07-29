@@ -78,7 +78,7 @@ src/
   Represents a user entity with fields for name, email, password (write-only), 2FA settings, and role.
 
 - **TwoFactorAuth.java**  
-  Embedded in `User`, stores 
+  Embedded in `User`, 
 
   
   
