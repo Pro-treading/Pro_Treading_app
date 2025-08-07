@@ -75,8 +75,7 @@ src/
 ## Key Classes
 
 - **User.java**  
-  Represents a user entity with fields for name, 
-  
+  Represents a user entity with fields for 
 
 
 
