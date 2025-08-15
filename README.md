@@ -75,7 +75,7 @@ src/
 ## Key Classes
 
 - **User.java**  
-  Represents a user entity with 
+  Represents a user entity 
 
 
 
