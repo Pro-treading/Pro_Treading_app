@@ -74,7 +74,7 @@ src/
 
 ## Key Classes
 
-- **User.java**  
+- **User.
 
 
 
